@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://xavierecho.github.io/posts/</loc>
+    <lastmod>2022-10-27T10:07:00+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierecho.github.io/tags/</loc>
+    <lastmod>2022-10-27T10:07:00+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierecho.github.io/tags/thought/</loc>
+    <lastmod>2022-10-27T10:07:00+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierecho.github.io/</loc>
+    <lastmod>2022-10-27T10:07:00+08:00</lastmod>
+  </url><url>
+    <loc>https://xavierecho.github.io/posts/post1/</loc>
+    <lastmod>2022-10-27T10:07:00+08:00</lastmod>
+  </url><url>
     <loc>https://xavierecho.github.io/about/</loc>
     <lastmod>2022-10-26T00:00:00+08:00</lastmod>
   </url><url>
@@ -9,15 +24,6 @@
     <lastmod>2022-10-26T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://xavierecho.github.io/tags/helloworld/</loc>
-    <lastmod>2022-10-26T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://xavierecho.github.io/posts/</loc>
-    <lastmod>2022-10-26T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://xavierecho.github.io/tags/</loc>
-    <lastmod>2022-10-26T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://xavierecho.github.io/</loc>
     <lastmod>2022-10-26T00:00:00+08:00</lastmod>
   </url>
 </urlset>
