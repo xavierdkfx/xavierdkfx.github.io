@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>helloworld on Xavier&#39;s blog</title>
-    <link>https://xavierecho.github.io/tags/helloworld/</link>
+    <link>https://xavierdkfx.github.io/tags/helloworld/</link>
     <description>Recent content in helloworld on Xavier&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://xavierecho.github.io/tags/helloworld/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://xavierdkfx.github.io/tags/helloworld/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hello, world</title>
-      <link>https://xavierecho.github.io/posts/hello-world/</link>
+      <link>https://xavierdkfx.github.io/posts/hello-world/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0800</pubDate>
       
-      <guid>https://xavierecho.github.io/posts/hello-world/</guid>
+      <guid>https://xavierdkfx.github.io/posts/hello-world/</guid>
       <description>“hello, world&amp;quot;程序是指在计算机屏幕上输出“hello world”这行字符串的计算机程序，“hello World”的中文意思是“你好，世界。”。这个例程在 Brian Kernighan 和 Dennis M. Ritchie合著的The C Programme Language使用而广泛流行。因为它的简洁，实用，并包含了一个该版本的C程序首次在1974年 Brian Kernighan 所撰写的 Programming in C: A Tutorial 出现。
 printf(&amp;#34;hello, world\n&amp;#34;); 实际上将“hello”和“World”一起使用的程序最早出现于1972年，在贝尔实验室成员Brian Kernighan撰写的内部技术文件《Introduction to the Language B》之中：
 main() { extern a,b,c; putchar(a);putchar(b);putchar(c);putchar(&amp;#39;!*n&amp;#39;); } a&amp;#39;hell&amp;#39;; b&amp;#39;o,w&amp;#39;; c&amp;#39;orld&amp;#39;; 最初的&amp;quot;hello, world&amp;quot;打印内容有个标准，即全小写，有逗号，逗号后空一格，且无感叹号。不过，完全遵循传统标准形式的反而很少出现。</description>
